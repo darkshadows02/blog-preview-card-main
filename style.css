@@ -7,6 +7,7 @@ body{
     background-color: hsl(47, 88%, 63%);
     min-width: 420px;
     max-height: 665px;
+    min-height:100vh;
     display: flex;
     align-items: center;
     justify-content: center;
